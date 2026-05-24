@@ -5,7 +5,7 @@ import About from "../../Pages/About/About";
 const Navbar = () => {
   return (
     <div id="nav-bar ">
-      <div className="max-w-[1170px] mx-auto">
+      <div className="max-w-[1200px] mx-auto">
         <div className="navbar gap-4 p-5">
           <div className="navbar-start">
             <div className="dropdown">
