@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+#nav-bar a.active{
+    border : 1px solid #23BE0A ;
+    color: #23BE0A;
+}
